@@ -1,4 +1,6 @@
 galaxy_info:
+  role_name: vector-role
+  namespace: namespace
   author: Stanislav Bortnikov 
   description: Install Vector on VM 
   company: Netology
